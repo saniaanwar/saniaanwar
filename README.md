@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sania Anwar
+# Hi, I'm Sania Anwar
 
 I’m a Master's student in Computer Science at Northeastern University, passionate about building intelligent systems that create real-world impact. From AI research to mobile app development, I love taking on challenges that blend creativity, code, and problem-solving.
 
 ---
 
-### 💡 What I'm Interested In
+### Interests
 
 - 🤖 Artificial Intelligence & Deep Learning
 - 💻 Software Development & Backend Engineering
@@ -14,23 +14,23 @@ I’m a Master's student in Computer Science at Northeastern University, passion
 
 ---
 
-### 🛠️ Projects & Work
+### Projects & Work
 
-- 📊 **College Finance Calculator**  
+-  **College Finance Calculator**  
   A budgeting tool built to help students track and manage their college expenses.
 
-- 🍔 **Food Delivery App**  
+-  **Food Delivery App**  
   Built an Android app using Kotlin and Jetpack Compose as part of an externship at SmartInternz.
 
-- 🛰️ **Traffic & Satellite Data Analysis**  
+-  **Traffic & Satellite Data Analysis**  
   Worked on a project involving autonomous navigation using deep learning for traffic sign and lane detection.
 
-- 🌪️ **Cyclone Intensity Estimation**  
+-  **Cyclone Intensity Estimation**  
   Co-authored a research paper using a VGG19 + multispectral satellite data fusion model to predict tropical cyclone intensity.
 
 ---
 
-### 💼 Experience
+### Experience
 
 
 - **Extern @ SmartInternz (Android App Dev)**  
@@ -38,7 +38,7 @@ I’m a Master's student in Computer Science at Northeastern University, passion
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -51,7 +51,7 @@ I’m a Master's student in Computer Science at Northeastern University, passion
 
 ---
 
-### 📫 Let's Connect
+### Contact Me!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/sania-anwar/)
 - 💻 [GitHub](https://github.com/saniaanwar)
