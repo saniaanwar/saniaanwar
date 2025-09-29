@@ -6,11 +6,11 @@ I’m a Master's student in Computer Science at Northeastern University, passion
 
 ### Interests
 
-- 🤖 Artificial Intelligence & Deep Learning
-- 💻 Software Development & Backend Engineering
-- 📱 Android Development with Kotlin Jetpack Compose
-- ☁️ Scalable Systems & Cloud Integration
-- 🌐 Full Stack Web Applications
+- Artificial Intelligence & Deep Learning
+- Software Development & Backend Engineering
+- Android Development with Kotlin Jetpack Compose
+- Scalable Systems & Cloud Integration
+- Full Stack Web Applications
 
 ---
 
