@@ -28,6 +28,9 @@ I’m a Master's student in Computer Science at Northeastern University, passion
 -  **Cyclone Intensity Estimation**  
   Co-authored a research paper using a VGG19 + multispectral satellite data fusion model to predict tropical cyclone intensity.
 
+-  **AprilTag Perspective-n-Point Pose Estimation**  
+  Implemented camera pose estimation using AprilTag fiducial markers and Perspective-n-Point (PnP) algorithms for accurate 6-DOF localization in computer vision applications.
+
 ---
 
 ### Experience
